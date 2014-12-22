@@ -1,0 +1,28 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="module type">
+      <project id="untitled" values="WEB_MODULE" />
+    </group>
+    <group name="file-type">
+      <project id="untitled" values="HTML,PLAIN_TEXT,UNKNOWN,JavaScript,XML" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="untitled" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="untitled" values="DEFAULT" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="NewDirectoryProjectAction.empty" count="1" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="2" />
+      <entry feature="ide.settings.Console_Font" count="1" />
+      <entry feature="ide.settings.Font" count="8" />
+      <entry feature="ide.settings.Keymap" count="8" />
+      <entry feature="ideaapp.started" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateDirectoryProject" count="1" />
+    </counts>
+  </component>
+</application>

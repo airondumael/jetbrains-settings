@@ -1,0 +1,25 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="6578cd64-b61a-4d99-be70-9e627b9f3d18" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="PLUGIN_FILTER" value="idea&#10;settings repo&#10;key&#10;ideavim" />
+    <property name="KEYMAP" value="select next occurence&#10;select next&#10;seleect next occurence&#10;select next occ&#10;navigate" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="export.settings.path" value="/Volumes/HD/settings.jar" />
+  </component>
+</application>
